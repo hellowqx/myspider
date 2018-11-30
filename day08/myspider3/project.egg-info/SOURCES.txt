@@ -1,0 +1,14 @@
+setup.py
+myspider3/__init__.py
+myspider3/items.py
+myspider3/middlewares.py
+myspider3/pipelines.py
+myspider3/settings.py
+myspider3/spiders/__init__.py
+myspider3/spiders/hot_person.py
+myspider3/spiders/job.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
